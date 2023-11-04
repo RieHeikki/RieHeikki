@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RieHeikki
+- 👋 Hi, I’m @HeikkiRie
 - 👀 I’m interested in Cloud computing and Cybersecurity
 - 🌱 I’m currently learning C# and python
 - 💞️ I’m looking to collaborate on still to come!!
